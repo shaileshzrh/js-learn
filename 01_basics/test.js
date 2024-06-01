@@ -6,7 +6,7 @@ console.log(amount)
 
 amount=200
 console.log(amount)
-accountId=2
+//accountId=2
 console.log(accountId);
-
+console.table([accountId, amount])
 //
